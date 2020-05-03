@@ -1,0 +1,63 @@
+*{
+	font-family: "Lucida";
+	color: #6e8684;
+}
+
+.navbar-custom { 
+    background-color: #f0f0ee; 
+} 
+
+/* Modify brand and text color */ 
+.navbar-text { 
+	color: #6e8684; 
+} 
+
+.header-isi{
+	color: #568381;
+}
+
+.footer-list{
+	list-style-type:none;
+	display: inline-block;
+	padding: 16px;
+}
+
+footer{
+	background-color: #f0f0ee;
+}
+
+.footer-padding{
+	padding-bottom: 20px;
+}
+
+.button-padding{
+	padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width:90%; 
+
+}
+
+.button-fb {
+	background-color: #3b5998 !important;
+	color:white !important;
+}
+
+.button-tw {
+	background-color:#00acee !important;
+	color:white !important;
+}
+
+.button-ig{
+	background-color:#bc5aa0 !important;
+	color:white !important;
+
+}
+
+.notes-style{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+a {
+  color: white;
+}
